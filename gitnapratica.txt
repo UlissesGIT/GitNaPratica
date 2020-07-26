@@ -18,3 +18,7 @@ git show aa43acd97c5b6b928a21861e87657c3bacf5b575
 
 Para visualizar a última mudança digite apenas "git show".
 
+Para enviar o arquivo executar o comando:
+git push origin master
+
+
