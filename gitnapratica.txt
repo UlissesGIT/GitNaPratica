@@ -21,4 +21,7 @@ Para visualizar a última mudança digite apenas "git show".
 Para enviar o arquivo executar o comando:
 git push origin master
 
+Para clonar um projeto, executar o comando:
+git clone <link do projeto>
+
 
