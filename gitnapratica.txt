@@ -1,0 +1,20 @@
+Na pasta do projeto, iniciar com:
+git init
+
+Faça atualizações no arquivo.
+
+Para visualizar mudanças no arquivo, usar o seguinte comando:
+git log
+
+Para visualizar o status do desenvolvimento no git:
+git status
+
+Realizando um comentário sobre a mudança:
+git commit -m "mudanças no arquivo"
+
+Revisitando as mudanças: 
+Copiar a hash que aparece em "commit" digitar o comando "git show" + a hash delecionada:
+git show aa43acd97c5b6b928a21861e87657c3bacf5b575
+
+Para visualizar a última mudança digite apenas "git show".
+
