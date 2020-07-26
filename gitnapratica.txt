@@ -24,4 +24,5 @@ git push origin master
 Para clonar um projeto, executar o comando:
 git clone <link do projeto>
 
-
+Caso queira continuar trabalhando com o projeto em equipe, baixar o repositorio para a sua pasta local para verificar se houve mudanças:
+git pull origin master
